@@ -13,4 +13,3 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value)
   return object;
 }
 
-function deleteFromObjectByKeyefsd;jf(object,)
